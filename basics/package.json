@@ -1,0 +1,17 @@
+{
+  "name": "angular-starter-basics",
+  "version": "1.0.0",
+  "description": "this is a demo of node basics",
+  "main": "index.js",
+  "scripts": {
+    "lodash" : "node lodash-example.js",
+    "start" : "node express-example.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.4",
+    "lodash": "^4.17.4"
+  }
+}
