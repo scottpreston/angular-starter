@@ -1,6 +1,6 @@
-# angular-starter - WORK IN PROGRESS...
-A starter project for introducing people to Angular w/TypeScript.
+# Angular-Starter - WORK IN PROGRESS...
 
+An introduction to modern JavaScript, TypeScript and Angular4 (latest at the time of publishing).
  
 # 1. The Basics
 
