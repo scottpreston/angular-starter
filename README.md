@@ -1,23 +1,23 @@
 # Angular-Starter - WORK IN PROGRESS...
 
 An introduction to modern JavaScript, TypeScript and Angular4 (latest at the time of publishing).
+
+Each project has it's own `package.json` please go there to run `npm install`.
+
+## Prerequisites. 
+
+You will need to download and install [NodeJS](https://nodejs.org/en/).
  
-# 1. The Basics
+## 1. [Node Basics](/basics) 
 
-This will cover node, npm, ES6, build systems, etc.
+This will cover the fundementals of NodeJS.
 
-# 2. TypeScript
+## 2. [ES6 & TypeScript](/typescript) 
 
-This will be a short-short overview of TypeScript.
+This will be a short-short overview of OO-JS, ES6 and TypeScript.
 
-## 3. Sample App
+## 3. [The Sample App](/sample-app)
 
-This will be a basic Angular app and will cover components, the archtiecture, etc.
+This will be a basic Angular app created in the `sample-app` and will cover components, the archtiecture, etc.
 
-To install:
 
-`npm install -g @angular/cli`
-
-Create Project:
-
-`ng new sample-app`

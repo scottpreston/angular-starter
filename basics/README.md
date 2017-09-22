@@ -85,7 +85,7 @@ The structure of the package is like this:
 }
 ```
 
-There's a `scripts section`, this is where you can run shell commands via:
+There's a `scripts` section in every `package.json`, this is where you can run commands:
 
 `npm run lodash`
 or
